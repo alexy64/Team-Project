@@ -1,0 +1,554 @@
+ 1)ACRONYM OF THE COUNTY (space)
+
+Alameda (ALM)
+
+ACRONYM OF THE COUNTY + WEEK NUMBER 
+
+ALM4/1
+
+ALM4/2
+
+ALM4/3
+
+ALM4/4
+
+ALM4/5
+
+ALM4/6
+
+ALM4/7
+
+ALM4/8
+
+ALM4/9
+
+ALM4/10
+
+ALM4/11
+
+ALM4/12
+
+ALM4/13
+
+ALM4/14
+
+ALM4/15
+
+ALM5/1
+
+ALM5/15
+
+DEATHS (space) 
+
+ALM4/1:  1
+
+ALM4/2:  2
+
+ALM4/3:  1
+
+ALM4/4:  1
+
+ALM4/5:  0
+
+ALM4/6:  1
+
+ALM4/7:  1
+
+ALM4/8:  1
+
+ALM4/9:  2
+
+ALM4/10: 9
+
+ALM4/11: 0
+
+ALM4/12: 0
+
+ALM4/13: 5
+
+ALM4/14: 6
+
+ALM4/15: 0
+
+ALM5/1:  0
+
+ALM5/15: 1
+
+CASES (space) 
+
+ALM4/1:  18
+
+ALM4/2:  58
+  
+ALM4/3:  50
+
+ALM4/4:  73
+
+ALM4/5:  7
+
+ALM4/6:  52
+
+ALM4/7:  33
+
+ALM4/8:  34
+
+ALM4/9:  47
+
+ALM4/10: 65
+
+ALM4/11:  45
+
+ALM4/12:  23
+
+ALM4/13:  47
+
+ALM4/14:  22
+
+ALM4/15:  72
+
+ALM5/1:   31
+
+ALM5/15:  34
+
+POPULATION: 73.812
+
+
+[ENTER]
+
+
+2)ACRONYM OF THE COUNTY (space)
+
+ Contra Costa
+
+ACRONYM OF THE COUNTY + WEEK NUMBER 
+
+CC4/1
+
+CC4/2
+
+CC4/3
+
+CC4/4
+
+CC4/5
+
+CC4/6
+
+CC4/7 
+
+CC4/8
+
+CC4/9
+
+CC4/10
+
+CC4/11
+
+CC4/12
+
+CC4/13
+
+CC4/14
+
+CC4/15
+
+CC5/1
+
+CC5/15
+
+DEATHS (space) 
+
+CC4/1:  0
+
+CC4/2:  0
+
+CC4/3:  2
+
+CC4/4:  0
+
+CC4/5:  1
+
+CC4/6:  1
+
+CC4/7:  0
+ 
+CC4/8:  0
+
+CC4/9:  0
+
+CC4/10: 2
+
+CC4/11: 3
+
+CC4/12: 0
+
+CC4/13: 1
+
+CC4/14: 0
+
+CC4/15: 1
+
+CC5/1:  1
+
+CC5/15: 0
+
+CASES (space) 
+
+CC4/1:  21
+
+CC4/2:  30
+
+CC4/3:  30
+
+CC4/4:  55
+
+CC4/5:  33
+
+CC4/6:  32
+
+CC4/7:  24
+
+CC4/8:  10
+
+CC4/9:  24
+
+CC4/10: 32
+
+CC4/11: 13
+
+CC4/12: 3
+
+CC4/13: 28
+
+CC4/14: 36
+
+CC4/15: 28
+
+CC5/1:  15
+
+CC5/15: 16
+
+POPULATION: 948,816
+
+[ENTER]
+
+
+3)ACRONYM OF THE COUNTY (space)
+
+Marin
+
+ACRONYM OF THE COUNTY + WEEK NUMBER 
+MN4/1
+MN4/2
+MN4/3
+MN4/4
+MN4/5
+MN4/6
+MN4/7
+MN4/8
+MN4/9
+MN4/10
+MN4/11
+MN4/12
+MN4/13
+MN4/14
+MN4/15
+MN5/1
+MN5/15
+
+
+DEATHS (space) 
+
+MN4/1:  0
+
+MN4/2:  0
+
+MN4/3:  5
+
+MN4/4:  0
+
+MN4/5:  0
+
+MN4/6:  1
+
+MN4/7:  0
+ 
+MN4/8:  0
+
+MN4/9:  0
+
+MN4/10: 3
+
+MN4/11: 0
+
+MN4/12: 0
+
+MN4/13: 0
+
+MN4/14: 0
+
+MN4/15: 0
+
+MN5/1:  0
+
+MN5/15: 0
+
+CASES (space) 
+
+MN4/1:  2
+
+MN4/2:  15
+
+MN4/3:  4
+
+MN4/4:  5
+
+MN4/5:  2
+
+MN4/6:  6
+
+MN4/7:  3
+
+MN4/8:  3
+
+MN4/9:  1
+
+MN4/10: 2
+
+MN4/11: 8
+
+MN4/12: 2
+
+MN4/13: 6
+
+MN4/14: 3
+
+MN4/15: 15
+
+MN5/1:  2
+
+MN5/15: 12
+
+POPULATION: 258,826
+
+[ENTER]
+
+4)ACRONYM OF THE COUNTY (space)
+
+Napa 
+
+ACRONYM OF THE COUNTY + WEEK NUMBER 
+
+NP4/1
+NP4/15
+NP5/1
+NP5/15
+
+DEATHS (space) 
+NP4/1:  0
+
+NP4/15: 0
+
+NP5/1:  0
+
+NP5/15: 0
+
+CASES (space) 
+NP4/1:  2
+
+NP4/15: 1
+
+NP5/1:  0
+
+NP5/15: 0
+
+POPULATION: 137,744
+
+[ENTER]
+
+5)ACRONYM OF THE COUNTY (space)
+
+San Mateo
+
+ACRONYM OF THE COUNTY + WEEK NUMBER 
+
+SM4/1
+SM4/15
+SM5/1
+SM5/15
+
+
+DEATHS (space) 
+
+SM4/1:  0
+
+SM4/15: 0
+
+SM5/1:  0
+
+SM5/15: 1
+
+CASES (space)
+
+SM4/1:  57
+
+SM4/15: 26
+
+SM5/1:  28
+
+SM5/15: 24
+ 
+POPULATION: 766,573
+
+[ENTER]
+
+6)ACRONYM OF THE COUNTY (space)
+
+Santa Clara
+
+ACRONYM OF THE COUNTY + WEEK NUMBER 
+
+SC4/1
+SC4/15
+SC5/1
+SC5/15
+
+
+DEATHS (space) 
+
+SC4/1:  3
+
+SC4/15: 0
+
+SC5/1:  2
+
+SC5/15: 1
+
+CASES (space) 
+
+SC4/1:  28
+
+SC4/15: 131
+
+SC5/1:   4
+
+SC5/15: 15
+
+POPULATION: 1.9 million
+
+
+[ENTER]
+
+
+7)ACRONYM OF THE COUNTY (space)
+
+Solano
+
+ACRONYM OF THE COUNTY + WEEK NUMBER 
+
+SL4/1
+SL4/15
+SL5/1
+SL5/15
+
+
+
+DEATHS (space) 
+
+SL4/1:  0
+
+SL4/15: 0
+
+SL5/1:  0
+
+SL5/15: 2
+
+CASES (space) 
+
+SL4/1:  1
+
+SL4/15: 13
+
+SL5/1:  4
+
+SL5/15: 16
+
+POPULATION: 447,643
+
+[ENTER]
+
+
+8)ACRONYM OF THE COUNTY (space)
+
+Sonoma 
+
+ACRONYM OF THE COUNTY + WEEK NUMBER  
+
+SN4/1
+
+SN4/15
+
+SN5/1
+
+SN5/15
+
+
+DEATHS (space) 
+
+SN4/1:  0
+
+SN4/15: 0
+
+SN5/1:  0
+
+SN5/15: 0
+
+CASES (space) 
+
+SN4/1:  2
+
+SN4/15: 7
+
+SN5/1:  9
+
+SN5/15: 16
+
+POPULATION: 494,336
+
+[ENTER]
+
+9)ACRONYM OF THE COUNTY 
+
+San Francisco
+
+ACRONYM OF THE COUNTY + WEEK NUMBER 
+
+SF4/1
+SF4/15
+SF5/1
+SF5/15
+
+
+DEATHS (space) 
+
+SF4/1:  1
+
+SF4/15: 2
+
+SF5/1:  3
+
+SF5/15: 1
+
+CASES (space) 
+
+SF4/1:  28
+
+SF4/15: 38
+
+SF5/1:  34
+
+SF5/15: 33
+
+POPULATION: 776,733
+
+[ENTER]
